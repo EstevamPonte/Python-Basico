@@ -1,0 +1,9 @@
+ORDEM DE PRECEDÊNCIA
+1: ()
+2: **
+3: *, /, //, %
+4: +, -
+
+**: Elevado a potencia
+//: divisão inteira
+%: resto da divisão
